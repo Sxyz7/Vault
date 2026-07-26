@@ -1,7 +1,7 @@
 # Vault
 
 <p align="center">
-  <img src="vault logo(2).png" alt="Vault Logo" width="120">
+  <img src="VaultLogo.png" alt="Vault Logo" width="120">
 </p>
 
 <h1 align="center">Vault</h1>
